@@ -1,7 +1,7 @@
 /**
  * Reports.jsx â Accessa locker.OS Reporting & Analytics page
  * -----------------------------------------------------------
- * Standalone React component (React 17+). No external deps.
+ * Standalone React component (React 17+). TypeScript-compatible (.tsx).
  *
  * Requirements:
  *   - "Nunito Sans" + "JetBrains Mono" loaded somewhere in the app
